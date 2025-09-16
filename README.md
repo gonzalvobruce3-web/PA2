@@ -18,9 +18,7 @@ Write a Python script (or Jupyter notebook) to solve each problem. **Save the sp
 
 Normalization centers data by subtracting the mean and scales it by dividing by the standard deviation:
 
-\[
-Z = \frac{X - \mu}{\sigma}
-\]
+Z = (X - mean) / std
 
 **Tasks**
 - Create a random **5×5** ndarray and store it in `X`.
