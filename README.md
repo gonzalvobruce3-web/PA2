@@ -32,12 +32,12 @@ Create a **10×10** ndarray `A` containing the squares of the first 100 positive
 
 ---
 
+## Tasks
+- determine determine all the elements that are divisible by 3. 
+
 ## Author
 
-@Bru-coder - BruceGonzalvo-P-ECE2112- 2023184773
+@Bru-coder - BruceGonzalvo-3ECEA- 2023184773
 
-## Tasks
-
-- determine determine all the elements that are divisible by 3. 
 
 
